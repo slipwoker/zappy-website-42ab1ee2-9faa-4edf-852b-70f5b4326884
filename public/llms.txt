@@ -7,65 +7,65 @@
 ## Pages
 
 ### Home
-https://loso-mobile-42ab1ee2.zappy5.app
+https://example.com
 LOSO MOBILE delivers cheap SIM cards, easy top-ups, and fast money transfers to Thailand. Join the mobile telecommunication company built for your budget and community.
 
 ### Services
-https://loso-mobile-42ab1ee2.zappy5.app/services
+https://example.com/services
 Explore budget-friendly mobile services from top-ups to Thailand money transfers. LOSO MOBILE is the mobile telecommunication company that keeps you connected for less.
 
 ### About
-https://loso-mobile-42ab1ee2.zappy5.app/about
+https://example.com/about
 Discover why LOSO MOBILE exists: to give foreign workers straightforward, low-cost t mobile telecommunications. Learn how we put the Thai community at the heart of every plan.
 
 ### Contact
-https://loso-mobile-42ab1ee2.zappy5.app/contact
+https://example.com/contact
 Ready for cheaper calls and reliable transfers? Contact LOSO MOBILE now. The mobile telecommunication company that makes staying in touch with Thailand simple and affordable.
 
 ### Products
-https://loso-mobile-42ab1ee2.zappy5.app/products
+https://example.com/products
 Our Products - LOSO MOBILE
 
 ### Cart
-https://loso-mobile-42ab1ee2.zappy5.app/cart
+https://example.com/cart
 Your Cart
 
 ### Checkout
-https://loso-mobile-42ab1ee2.zappy5.app/checkout
+https://example.com/checkout
 Checkout
 
 ### Login
-https://loso-mobile-42ab1ee2.zappy5.app/login
+https://example.com/login
 Customer Login
 
 ### Account
-https://loso-mobile-42ab1ee2.zappy5.app/account
+https://example.com/account
 My Account
 
 ### Order Success
-https://loso-mobile-42ab1ee2.zappy5.app/order-success
+https://example.com/order-success
 Thank you for your order
 
 ### Product Detail
-https://loso-mobile-42ab1ee2.zappy5.app/product/:slug
+https://example.com/product/:slug
 Product Details - LOSO MOBILE
 
 ### Category
-https://loso-mobile-42ab1ee2.zappy5.app/category/:slug
+https://example.com/category/:slug
 Products - LOSO MOBILE
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://loso-mobile-42ab1ee2.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://loso-mobile-42ab1ee2.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://loso-mobile-42ab1ee2.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -99,8 +99,8 @@ Telecommunications / Mobile Services
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://loso-mobile-42ab1ee2.zappy5.app/sitemap.xml
-- Robots: https://loso-mobile-42ab1ee2.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://loso-mobile-42ab1ee2.zappy5.app/llms-full.txt
-- Products (JSON): https://loso-mobile-42ab1ee2.zappy5.app/products.json
-- Products (Google Merchant RSS): https://loso-mobile-42ab1ee2.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
