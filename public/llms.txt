@@ -1,0 +1,106 @@
+# LOSO MOBILE — Generative Engine Optimization Map
+
+> LOSO MOBILE is a budget-friendly mobile services provider targeting foreign workers in Israel, particularly the Thai community. The brand focuses on affordability and accessibility, offering SIM cards, phone top-ups, and money transfers to Thailand. The tone is practical and community-oriented, designed to serve a specific immigrant worker demographic with straightforward, cost-effective telecom solutions.
+
+---
+
+## Pages
+
+### Home
+https://loso-mobile-42ab1ee2.zappy5.app
+LOSO MOBILE delivers cheap SIM cards, easy top-ups, and fast money transfers to Thailand. Join the mobile telecommunication company built for your budget and community.
+
+### Services
+https://loso-mobile-42ab1ee2.zappy5.app/services
+Explore budget-friendly mobile services from top-ups to Thailand money transfers. LOSO MOBILE is the mobile telecommunication company that keeps you connected for less.
+
+### About
+https://loso-mobile-42ab1ee2.zappy5.app/about
+Discover why LOSO MOBILE exists: to give foreign workers straightforward, low-cost t mobile telecommunications. Learn how we put the Thai community at the heart of every plan.
+
+### Contact
+https://loso-mobile-42ab1ee2.zappy5.app/contact
+Ready for cheaper calls and reliable transfers? Contact LOSO MOBILE now. The mobile telecommunication company that makes staying in touch with Thailand simple and affordable.
+
+### Products
+https://loso-mobile-42ab1ee2.zappy5.app/products
+Our Products - LOSO MOBILE
+
+### Cart
+https://loso-mobile-42ab1ee2.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://loso-mobile-42ab1ee2.zappy5.app/checkout
+Checkout
+
+### Login
+https://loso-mobile-42ab1ee2.zappy5.app/login
+Customer Login
+
+### Account
+https://loso-mobile-42ab1ee2.zappy5.app/account
+My Account
+
+### Order Success
+https://loso-mobile-42ab1ee2.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://loso-mobile-42ab1ee2.zappy5.app/product/:slug
+Product Details - LOSO MOBILE
+
+### Category
+https://loso-mobile-42ab1ee2.zappy5.app/category/:slug
+Products - LOSO MOBILE
+
+## Legal & Policy
+
+### Privacy Policy
+https://loso-mobile-42ab1ee2.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://loso-mobile-42ab1ee2.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://loso-mobile-42ab1ee2.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About LOSO MOBILE
+LOSO MOBILE is a budget-friendly mobile services provider targeting foreign workers in Israel, particularly the Thai community. The brand focuses on affordability and accessibility, offering SIM cards, phone top-ups, and money transfers to Thailand. The tone is practical and community-oriented, designed to serve a specific immigrant worker demographic with straightforward, cost-effective telecom solutions.
+
+## Services/Products
+- טעינות טלפון
+- כרטיסי SIM
+- העברות כספים לתאילנד
+
+## Target Audience
+- עובדים זרים בישראל
+- Foreign Workers in Israel
+- Thai Community in Israel
+- Employers of Foreign Workers
+
+## Industry
+Telecommunications / Mobile Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://loso-mobile-42ab1ee2.zappy5.app/sitemap.xml
+- Robots: https://loso-mobile-42ab1ee2.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://loso-mobile-42ab1ee2.zappy5.app/llms-full.txt
+- Products (JSON): https://loso-mobile-42ab1ee2.zappy5.app/products.json
+- Products (Google Merchant RSS): https://loso-mobile-42ab1ee2.zappy5.app/product-feed.xml
