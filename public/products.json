@@ -1,8 +1,33 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-16T04:57:39.345Z",
+  "generated_at": "2026-06-16T05:00:19.359Z",
   "base_url": "https://example.com",
-  "currency": "USD",
-  "count": 0,
-  "products": []
+  "currency": "ILS",
+  "count": 1,
+  "products": [
+    {
+      "id": "a0b6dfe2-08e1-4cfe-a816-cf4c066a4d5f",
+      "slug": "i-phone-17-pro-max-bhhnid",
+      "name": "i phone 17 pro max",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 5499,
+      "base_price": 5800,
+      "sale_price": 5499,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1781585904978-xby90f.webp",
+        "https://example.com/assets/product-1781585889934-n59598.webp",
+        "https://example.com/assets/product-1781585896602-8ir95v.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/i-phone-17-pro-max-bhhnid",
+      "categories": [],
+      "updated_at": "2026-06-16T04:58:54.421Z"
+    }
+  ]
 }

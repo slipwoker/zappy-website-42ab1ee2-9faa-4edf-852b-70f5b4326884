@@ -4,6 +4,21 @@
     <title>LOSO MOBILE</title>
     <link>https://example.com</link>
     <description>Product feed for LOSO MOBILE</description>
-    <lastBuildDate>Tue, 16 Jun 2026 04:57:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 05:00:19 GMT</lastBuildDate>
+    <item>
+      <g:id>a0b6dfe2-08e1-4cfe-a816-cf4c066a4d5f</g:id>
+      <g:title>i phone 17 pro max</g:title>
+      <g:description>i phone 17 pro max</g:description>
+      <g:link>https://example.com/product/i-phone-17-pro-max-bhhnid</g:link>
+      <g:image_link>https://example.com/assets/product-1781585904978-xby90f.webp</g:image_link>
+      <g:additional_image_link>https://example.com/assets/product-1781585889934-n59598.webp</g:additional_image_link>
+      <g:additional_image_link>https://example.com/assets/product-1781585896602-8ir95v.webp</g:additional_image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>5800.00 ILS</g:price>
+      <g:sale_price>5499.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>LOSO MOBILE</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>
